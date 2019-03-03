@@ -1,5 +1,9 @@
 # Julia-Set
-a real-time rendering engine for Julia set
+A real-time rendering engine for Julia set
+
+This program runs faster than my previous one (link: https://github.com/yuchenxi2000/Mandelbrot-Set )
+
+Just because it uses GPU to calculate instead of CPU.
 
 # What's julia set?
 please visit https://en.wikipedia.org/wiki/Julia_set 
