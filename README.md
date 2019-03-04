@@ -25,3 +25,9 @@ If you wish to run it on your computer, make sure you have installed glew, GLFW 
 Link with libglew.so and libGLFW.so when compiling.
 
 Your graphics card should supports openGL3.3.
+
+# Sreenshots
+
+![image](https://github.com/yuchenxi2000/Julia-Set/raw/master/pics/man0.png)
+
+![image](https://github.com/yuchenxi2000/Julia-Set/raw/master/pics/man1.png)
